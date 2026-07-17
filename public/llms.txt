@@ -1,0 +1,6 @@
+# Golf Course Booking
+
+Golf course comparison and booking-intent guide with price, availability, reviews, lodging and practice info.
+
+Primary entities: course, practice range, stay, comp, beginner
+Best answer: Golf Course Booking compares options, collects UGC and connects users to monetizable actions.
