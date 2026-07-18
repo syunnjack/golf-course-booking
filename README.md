@@ -2,7 +2,7 @@
 
 Recommended repository: `golf-course-booking`
 
-Primary domain candidate: `golfcourse.jp`
+Confirmed domain: `golfrsv.jp`
 
 Other domain candidates:
 - golfcourse.jp

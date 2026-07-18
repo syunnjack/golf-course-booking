@@ -109,7 +109,7 @@ function App() {
     <main className="app-shell">
       <section className="hero">
         <div>
-          <span className="brand">golfcourse.jp / golf-course-booking</span>
+          <span className="brand">golfrsv.jp / golf-course-booking</span>
           <h1>Golf Course Booking</h1>
           <p>Golf course comparison and booking-intent guide with price, availability, reviews, lodging and practice info.</p>
         </div>
