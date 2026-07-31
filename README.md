@@ -2,11 +2,11 @@
 
 Recommended repository: `golf-course-booking`
 
-Confirmed domain: `golfrsv.jp`
+Confirmed domain: `https://syunnjack.github.io/golf-course-booking/`
 
 Other domain candidates:
 - golfcourse.jp
-- golfrsv.jp
+- https://syunnjack.github.io/golf-course-booking/
 - golfyoyaku.jp
 - golftrip.jp
 
