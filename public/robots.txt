@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://golfrsv.jp/sitemap.xml
+
+Sitemap: https://golf-course-booking.vercel.app/sitemap.xml
